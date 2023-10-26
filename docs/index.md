@@ -20,7 +20,9 @@ Vous pouvez désormais modifier le contenu des fichiers pour créer votre propre
 
 Voir le tutoriel [Personnaliser l'accueil](https://tutoriels.forge.aeif.fr/mkdocs-pyodide-review/01_demarrage/1_demarrage/#iv-personnaliser-la-page-daccueil-du-site-que-vous-avez-clone){:target="_blank" }
 
-## Ci-dessous mode d'emploi deds exos Python, qu'il est recommandé de laisser dans cette page d'accueil.
+## Ci-dessous mode d'emploi des IDE des exercices Python
+
+😊 Il est recommandé de laisser les explications ci-dessous dans cette page d'accueil.
 
 !!! info "Exercices Python : Utilisation de l'IDE sur le site"
 
